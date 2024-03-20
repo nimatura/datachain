@@ -15,7 +15,7 @@ a un chatbot sobre este archivo.
 Este proyecto usa la versión de Python 3.9.5.
 
 ```
-git clone https://username@bitbucket.org/entelbigdataanalytics/correct_address.git
+git clone https://github.com/nimatura/langchain.git
 ```
 
 Crear un ambiente virtual y activarlo:
