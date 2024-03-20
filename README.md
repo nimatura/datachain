@@ -7,8 +7,8 @@ a un chatbot sobre este archivo.
 ## Proyecto
 
 * `agent.py`: funciones relacionadas a llm y agentes con langchain.
-*`app.py`: ejecuta la aplicación web.
-*`webpage.py`: funciones relacionadas con la configuración de la aplicación web.
+* `app.py`: ejecuta la aplicación web.
+* `webpage.py`: funciones relacionadas con la configuración de la aplicación web.
 
 ## Instalación
 
