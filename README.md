@@ -1,4 +1,4 @@
-# langchain
+# DataChain
 
 Este proyecto es un ejemplo de aplicación usando LangChain y Streamlit.
 La aplicación permite cargar un archivo csv de hasta 200 mb y realizar preguntas
